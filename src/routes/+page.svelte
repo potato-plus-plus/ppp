@@ -19,13 +19,24 @@
         />
     </section>
     <h1>Games</h1>
+    <h2>Early Access Games</h2>
+    <p>These games are games that are not finished yet, but are available to play.</p>
     <section class="row">
         <Button
             href="researchclicker"
             content="Research Clicker"
             icon="/research.svg"
         />
+        <Button
+            href="roguepotato"
+            content="Rogue Potato"
+            icon="/research.svg"
+        />
     </section>
+
+    <h2>Finished Games</h2>
+    <p>These games are full games, and are no longer in the Early Access phase.</p>
+
     <h1>Credits</h1>
     <section class="row">
         <Button href="https://github.com/thepotatoplus" content="Potato" />
