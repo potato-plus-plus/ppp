@@ -1,6 +1,5 @@
 <h2>
-    <a href='https://potatoplusplus.com/'>Potato++</a> |
-    <a href="https://discord.gg/KnAU3Snc9g">Discord</a>
+    <a href="https://discord.gg/53DkvQnn9M">Discord</a>
 </h2>
 
 <slot />
